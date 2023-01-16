@@ -16,3 +16,5 @@ This is how to different parts of the Git repository and various commands useing
 ## How to Contribute
 
  Add 4 sction message
+
+### Copyright
