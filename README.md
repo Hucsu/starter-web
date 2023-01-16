@@ -11,6 +11,7 @@ This is how to different parts of the Git repository and various commands useing
 Sample website with plenty of files for demos
 
 ## Deploxyment
+This is how to different parts of the Git repository and various commands useing a web project.
 
 ## How to Contribute
 
