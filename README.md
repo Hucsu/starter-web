@@ -4,12 +4,14 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+This is how to different parts of the Git repository and various commands useing a web project.
+
+## Purpose
+
 Sample website with plenty of files for demos
 
-### Purpose
+## Deploxyment
 
-Sample website with plenty of files for demos
-
-#### How to Contribute
+## How to Contribute
 
  Add 4 sction message
